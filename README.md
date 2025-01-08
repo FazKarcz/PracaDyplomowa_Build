@@ -9,5 +9,5 @@ Poradnik: Jak Pobrać Build oraz uruchomić Bulid aplikacji.
 ![image3](https://github.com/user-attachments/assets/da739995-f9ba-414e-84f5-b3a322311286)
 ## 4.Po rozpakowaniu wchodzimy w folder Build:
 ![iamge4](https://github.com/user-attachments/assets/586007a7-6e70-40be-8f01-86e5d003a398)
-## 5. Ostatnim krokiem jest włączenie aplikacji po przez plik z rozszerzeniem .exe:
+## 5. Ostatnim krokiem jest włączenie aplikacji poprzez plik z rozszerzeniem .exe:
 ![Image5](https://github.com/user-attachments/assets/b01fe2a0-fc20-45f5-b6d5-eebd96460070)
